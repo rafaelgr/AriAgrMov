@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_ConvertModelWizard_Files\UpgradeReferences.xslt"?>
+<UpgradeLog>
+  <Events>
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovModelo\AriAgrMovModelo.csproj" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovModelo\AriAgrMovModelo.csproj" Message="Project References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovModelo\AriAgrMovModelo.csproj" Message="Import Directives" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovModelo\App.Config" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovModelo\App.Config" Message="Http Handlers" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovModelo\App.Config" Message="Handlers (IIS7+)" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovModelo\App.Config" Message="Config Sections" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovModelo\App.Config" Message="Render Extensions" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovModelo\App.Config" Message="App.Config" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovModelo\AriAgrMovModelo.csproj" Message="AriAgrMovModelo" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\AriAgrMovWeb.csproj" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\AriAgrMovWeb.csproj" Message="Project References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\AriAgrMovWeb.csproj" Message="Import Directives" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\Consulta.aspx" Message="Register Directives" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\Consulta.aspx" Message="Assembly Directives" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\Consulta.aspx" Message="Consulta.aspx" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\Default.aspx" Message="Register Directives" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\Default.aspx" Message="Assembly Directives" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\Default.aspx" Message="Default.aspx" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\Volcado.aspx" Message="Register Directives" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\Volcado.aspx" Message="Assembly Directives" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\Volcado.aspx" Message="Volcado.aspx" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\web.config" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\web.config" Message="Http Handlers" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\web.config" Message="Handlers (IIS7+)" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\web.config" Message="Config Sections" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\web.config" Message="Render Extensions" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\web.config" Message="web.config" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\web.Debug.config" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\web.Debug.config" Message="Http Handlers" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\web.Debug.config" Message="Handlers (IIS7+)" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\web.Debug.config" Message="Config Sections" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\web.Debug.config" Message="Render Extensions" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\web.Debug.config" Message="web.Debug.config" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\web.Release.config" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\web.Release.config" Message="Http Handlers" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\web.Release.config" Message="Handlers (IIS7+)" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\web.Release.config" Message="Config Sections" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\web.Release.config" Message="Render Extensions" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\web.Release.config" Message="web.Release.config" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\AriAgrMovWeb.csproj" Message="AriAgrMovWeb" />
+    <Event EventType="Success" Action="Analyze" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgroMovil.sln" Message="AriAgroMovil" />
+    <Event EventType="Success" Action="Upgrade" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovModelo\AriAgrMovModelo.csproj" Message="Assembly References" />
+    <Event EventType="Success" Action="Upgrade" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovModelo\AriAgrMovModelo.csproj" Message="AriAgrMovModelo" />
+    <Event EventType="Success" Action="Upgrade" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\AriAgrMovWeb.csproj" Message="Assembly References" />
+    <Event EventType="Success" Action="Upgrade" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgrMovWeb\AriAgrMovWeb.csproj" Message="AriAgrMovWeb" />
+    <Event EventType="Success" Action="Upgrade" SourceItem="C:\PROYECTOS\AriAgrMov\AriAgroMovil.sln" Message="AriAgroMovil" />
+  </Events>
+</UpgradeLog>
